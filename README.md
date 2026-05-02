@@ -47,9 +47,9 @@ The dataset includes:
 
 ## 📷 Dashboard Preview
 
-Excel_Dashboard.png
-PowerBI_Dashboard.png
-Tableau_Dashboard.png
+![Excel Dashboard](Excel%20Dashboard.png)
+![Power BI Dashboard](Power%20Bi%20Dashboard.png)
+![Tableau Dashboard](Tableau%20Dashboard.png)
 
 ---
 
