@@ -109,6 +109,7 @@ bank-loan-data-analysis/
 **Nikhil Jangir**  
 EDI Analyst | Aspiring Data Analyst  
 
+📧 Email: nikhiljangir1811@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/nikhil-jangir-6485bb311  
 💻 GitHub: https://github.com/Nikhil162002  
 
