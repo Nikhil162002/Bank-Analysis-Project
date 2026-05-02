@@ -85,3 +85,26 @@ The analysis highlights how borrower behavior, verification status, and loan gra
 
 ## 📁 Project Structure
 
+bank-data-analysis/
+│── Bank Loan Project.pptx
+│── Bank_Dataset.xlsx
+│── SQL_Queries.sql
+│── Excel_Dashboard.png
+│── PowerBI_Dashboard.png
+│── Tableau_Dashboard.png
+│── README.md
+
+
+---
+
+## 👨‍💻 Author
+
+**Nikhil Jangir**  
+EDI Analyst | Aspiring Data Analyst  
+
+🔗 LinkedIn: https://www.linkedin.com/in/nikhil-jangir-6485bb311  
+💻 GitHub: https://github.com/Nikhil162002  
+
+---
+
+⭐ Feel free to explore and provide feedback!
