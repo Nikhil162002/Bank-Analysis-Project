@@ -85,13 +85,20 @@ The analysis highlights how borrower behavior, verification status, and loan gra
 
 ## 📁 Project Structure
 
-bank-data-analysis/
-│── Bank Loan Project.pptx
-│── Bank_Dataset.xlsx
-│── SQL_Queries.sql
-│── Excel_Dashboard.png
-│── PowerBI_Dashboard.png
-│── Tableau_Dashboard.png
+bank-loan-data-analysis/
+│── data/
+│   ├── Finance_1.csv
+│   └── Finance_2.xlsx
+│
+│── dashboards/
+│   ├── Excel_Dashboard.png
+│   ├── Power_Bi_Dashboard.png
+│   └── Tableau_Dashboard.png
+│
+│── presentations/
+│   ├── Bank Loan Project.pptx
+│   └── Project Bootcamp - Read-Only.pptx
+│
 │── README.md
 
 
