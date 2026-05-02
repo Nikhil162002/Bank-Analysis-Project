@@ -51,7 +51,7 @@ The dataset includes:
 ![Excel Dashboard](Excel_Dashboard.png)
 
 ### 📊 Power BI Dashboard
-![Power BI Dashboard](PowerBI_Dashboard.png)
+![Power BI Dashboard](Power_Bi_Dashboard.png)
 
 ### 📊 Tableau Dashboard
 ![Tableau Dashboard](Tableau_Dashboard.png)
